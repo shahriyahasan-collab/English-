@@ -1,5 +1,5 @@
 {
-  "name": "english learning copy",
+  "name": "lingualens",
   "description": "Upload audio or video conversations to analyze grammatical mistakes and receive suggestions for better responses using Gemini AI.",
   "requestFramePermissions": [
     "microphone"
