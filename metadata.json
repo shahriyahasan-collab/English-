@@ -1,0 +1,7 @@
+{
+  "name": "english learning copy",
+  "description": "Upload audio or video conversations to analyze grammatical mistakes and receive suggestions for better responses using Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
